@@ -170,7 +170,7 @@ h4 {
 }
 
 .slide2 {
-    background-image: url('../img/slide2.jpg');
+    background-image: url('../piccs/5.jpg');
     background-size: cover;
     height: 90vh;
     min-height: 300px;
@@ -229,10 +229,10 @@ h4 {
 }
 
 .about-us-img-container {
-    background: url("../img/image3.jpg");
+    background: url("../piccs/7.jpg");
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 550px;
     display: block;
     margin: 0 auto;
 }
@@ -282,7 +282,7 @@ h4 {
 
 .featured-article-container {
     position: relative;
-    background: url("../img/image1.jpg");
+    background: url("../piccs/6.jpg");
     background-size: cover;
     background-position: center;
     min-height: 450px;
