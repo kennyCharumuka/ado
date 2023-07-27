@@ -163,7 +163,7 @@ h4 {
 }
 
 .slide1 {
-    background-image: url("../img/slide1.jpg");
+    background-image: url("../piccs/6.jpg");
     background-size: cover;
     height: 90vh;
     min-height: 300px;
@@ -327,7 +327,7 @@ h4 {
 /* Join us Container Begins */
 
 .join-section-container {
-    background-image: url(../img/image4.jpg);
+    background-image: url(../piccs/3.jpg);
     background-size: cover;
     background-position: center;
     color: white;
@@ -498,7 +498,7 @@ footer {
 /* About Us Page CSS Begins */
 
 .page-top-heading {
-    background-image: url("../img/banner.jpg");
+    background-image: url("../piccs/5.jpg");
     background-position: center;
     background-size: cover;
     color: white;
